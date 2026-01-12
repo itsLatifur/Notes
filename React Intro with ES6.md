@@ -416,10 +416,10 @@ Result:
 
 ## Important React Rules with Arrays
 
-*✅ Always return a **new array**
-*❌ Never mutate arrays (`push`, `pop`, `splice`)
-*✅ Use `map()` for rendering JSX
-*✅ Always add a `key` when rendering lists
+* ✅ Always return a **new array**
+* ❌ Never mutate arrays (`push`, `pop`, `splice`)
+* ✅ Use `map()` for rendering JSX
+* ✅ Always add a `key` when rendering lists
 
 ---
 
