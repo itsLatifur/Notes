@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Compile Include="React Intro with ES6.md" />
-    <Compile Include="1. ES6 + React.md" />
   </ItemGroup>
 
 </Project>
